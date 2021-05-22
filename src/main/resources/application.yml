@@ -14,4 +14,5 @@ spring:
   thymeleaf:
     cache: false
 spring.security.user.name: administrador 
-spring.security.user.password: admin123    
+spring.security.user.password: admin123   
+spring.security.user.roles: ADMINISTRADOR 

@@ -1,12 +1,12 @@
 package helpers;
 
-public class ViewRouteHelper {
+public class ViewRouterHelper {
 	
 	//USER
 	public static final String LOGIN = "/login";
 
 	// MENUS
-	public final static String MENU_ADMIN = "/home";
+	public final static String HOME = "/home";
 	public final static String MENU_USER = "/menuuser";
   
 	//PERFIL
