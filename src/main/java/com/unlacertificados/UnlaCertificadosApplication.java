@@ -1,0 +1,13 @@
+package com.unlacertificados;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UnlaCertificadosApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UnlaCertificadosApplication.class, args);
+	}
+
+}
